@@ -6,5 +6,6 @@
 
 # VSCode files
 *.vscode
-*/ImageJ_Results
-*/python_results
+ImageJ_Results/*
+python_results/*
+experimental_data/*
