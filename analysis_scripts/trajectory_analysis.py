@@ -1,8 +1,8 @@
 from analysis_scripts.py4bleaching.py4bleaching import analysis
 
 
-input_folder = 'imagejresults/CLIC/'
-output_folder = 'python_results/stoichiometries/CLIC/'
+input_folder = 'ImageJ_Results/crosslinked-aBc-50uM/'
+output_folder = 'python_results/stoichiometries/TIRF_crosslinked_aBc/'
 
 #change this according to the model that you'd like to use (from the repo with all the models)
 model_name = 'Model_3'
